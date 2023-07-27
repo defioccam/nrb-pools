@@ -54,7 +54,4 @@ How can Rocketpool expand its TAM and capture our business?
 
 2. **Technical Analysis**: A technical feasibility study is needed to understand the potential impacts and complexities of the proposed changes.
 
-3. **Formal Proposal**: If the community and technical analysis support the proposal, it can move to the formal proposal stage for voting.5. **Locked RPL is Eligible to Vote**: RPL locked in the Vault is eligible to vote on a formal proposal (e.g. on Snapshot) if the RPL
-    - Was locked at the time the proposal was posted
-    - Will remain locked for 2 weeks past the end of voting
-
+3. **Formal Proposal**: If the community and technical analysis support the proposal, it can move to the formal proposal stage for voting.
