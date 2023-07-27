@@ -2,9 +2,7 @@
 
 ---
 
-We propose changes to the Rocketpool protocol aimed at expanding the total addressable market (TAM) of Rocketpool Node Operators. In addition to the options they currently have, Node Operators would be able to
-- Lock RPL tokens in a vault for fees
-- Run a new type of pool that trades off RPL price volatility for borrowed-ETH rewards
+We propose changes to the Rocketpool protocol aimed at expanding the total addressable market (TAM) of Rocketpool Node Operators. In addition to the options they currently have, Node Operators would be able to run a new type of pool that trades off RPL price volatility for borrowed-ETH rewards. Those rewards would instead accrue to holders of unstaked RPL who lock their RPL in a vault.
 
 
 ### Some Personal Background
