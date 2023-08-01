@@ -40,7 +40,7 @@ How can Rocketpool expand its TAM and capture our business?
 ## Market Analysis 
 There seem to be 4 broad groups of Node Operators in the Rocketpool ecosystem :
 
-**No-Speculation Operators (No-Specs)**: Potential Node operators who would like to use Rocketpool but refuse to speculate on RPL. At the moment such operators can use the protocol through marriage contracts with RP holders   
+**No-Speculation Operators (No-Specs)**: Potential Node operators who would like to use Rocketpool but refuse to speculate on RPL. At the moment such operators can only use the protocol through clunky "marriage contracts" with RPL holders   
 
 **Yes-Speculation Operators (Yes-Specs)**: Node operators who like using Rocketpool and are happy to stake and speculate on RPL
 
@@ -50,13 +50,13 @@ There seem to be 4 broad groups of Node Operators in the Rocketpool ecosystem :
 
 Of these groups, I believe No-Spec is the largest one by far and represents a massive untapped market for Rocketpool
 
-While we may want to monetize No-Specs ASAP, its important to do so without unleashing unmanaged forces of supply and demand in the RPL market that would  increase RPL market volatility. To manage these forces, let's first understand where they will come from: 
+While we may want to monetize No-Specs ASAP, its important to do so without unleashing unmanaged forces of supply and demand that would increase RPL market volatility. To manage these forces, let's first understand where they will come from: 
 
 **RPL Supply**: RPL supply will primarily come from Grudge-Specs converting to No-Specs, but also to some extent from Yes-Specs, and Pure-Specs who a) do not believe in the potential of No-Spec monetization to drive large revenues long-term, or b) want  to avoid the RPL price volatility wrought by a badly managed transition  
 
 **RPL demand**: RPL demand, on the other hand, will come from new and existing Yes-Specs and Pure-Specs (and even Grudge-Spec to Yes-Spec converts) who **do** believe in the potential of No-Spec monetization to drive long-term revenue and have conviction that RPL price volatility will be contained during the transition. 
 
-If these forces play out on different timescales, they could cause significant RPL price volatility. RPL volatility begets RPL volatilty because it converts Yes-Specs to Grudge-Specs and then to No-Specs. Hence, it's important that it be managed. The purpose of the nrb-pool queue is to limit the rate at which Grudge-Specs will sell RPL to start new nrb-pools. 24hr RPL volume is currently around 2.1K ETH. Assuming a 10% RPL bond per borrowed-ETH, transference of 1000 borrowed-ETH from RPL-Bonded minipools to NRB-megapools would cause no more than 5% of the current 24 hr RPL volume to get market sold each day. 
+If these forces play out on different timelines, they could cause significant RPL price volatility. RPL volatility begets RPL volatilty because it converts Yes-Specs to Grudge-Specs and then to No-Specs. Hence, it's important that it be managed. The purpose of the nrb-pool queue is to limit the rate at which Grudge-Specs will sell RPL to start new nrb-pools. 24hr RPL volume is currently around 2.1K ETH. Assuming a 10% RPL bond per borrowed-ETH, transference of 1000 borrowed-ETH from RPL-Bonded minipools to NRB-megapools would cause no more than 5% of the current 24 hr RPL volume to get market sold each day. 
 
 The throughput of the queue can be raised  by the pDAO if RPL price remains well anchored. 
 
