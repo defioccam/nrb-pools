@@ -56,7 +56,9 @@ While we may want to monetize No-Specs ASAP, its important to do so without unle
 
 **RPL demand**: RPL demand, on the other hand, will come from new and existing Yes-Specs and Pure-Specs (and even Grudge-Spec to Yes-Spec converts) who **do** believe in the potential of No-Spec monetization to drive long-term revenue and have conviction that RPL price volatility will be contained during the transition. 
 
-These forces of supply and demand could unleash tremendous RPL price volatility if they play out on different timelines. RPL volatility begets RPL volatilty because it converts Yes-Specs to Grudge-Specs and then to No-Specs. Hence, it's important that it be managed. the nrb-pool queue limits the rate at which Grudge-Specs will dump RPL to start new nrb-pools. 24hr RPL volume is currently around 2.1K ETH. Assuming a 10% RPL bond per borrowed-ETH,  transference of 1000 borrowed-ETH from RPL-Bonded minipools to NRB-megapools would cause no more than 5% of the current 24 hr RPL volume to get dumped  on the market each day. The throughput of the queue can be raised  by the pDAO if RPL price remains well anchored. 
+If these forces play out on different timescales, they could cause significant RPL price volatility. RPL volatility begets RPL volatilty because it converts Yes-Specs to Grudge-Specs and then to No-Specs. Hence, it's important that it be managed. The purpose of the nrb-pool queue is to limit the rate at which Grudge-Specs will sell RPL to start new nrb-pools. 24hr RPL volume is currently around 2.1K ETH. Assuming a 10% RPL bond per borrowed-ETH, transference of 1000 borrowed-ETH from RPL-Bonded minipools to NRB-megapools would cause no more than 5% of the current 24 hr RPL volume to get market sold each day. 
+
+The throughput of the queue can be raised  by the pDAO if RPL price remains well anchored. 
 
 ## Additional Notes:
 
