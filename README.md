@@ -29,7 +29,7 @@ How can Rocketpool expand its TAM and capture our business?
 
 ## Proposal Outline:
 1. **Establish an RPL Vault**: RPL holders have the option to lock RPL tokens in a vault.
-1. **Establish a No-RPL-Bonded (NRB) Megapool**: As the name suggests, this megapools does not require RPL to be bonded.
+1. **Establish a No-RPL-Bonded (NRB) Megapool**: As the name suggests, these megapools do not require RPL to be bonded.
 4. **NRB-pool queue**: When an NRB pool is started, a chit representing the intended amount of borrowed-ETH goes into a queue. The queue advances at the rate of 1000 ETH per day. Once an NRB's chit has cleared the queue, the NRB pool's bonded-ETH is moved to the minipool queue (though it probably won't be called that once megapools are a thing)  
 4. **Vault Cut of Borrowed-ETH rewards**: 9% of an NRB megapool's borrowed-ETH rewards goes to the vault as a Vault Fee.
 4. **NRB Operator Cut of Borrowed-ETH rewards**: NRB megapool operators receive 5% of borrowed-ETH rewards.
