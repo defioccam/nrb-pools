@@ -48,7 +48,7 @@ There seem to be 4 broad groups of Node Operators in the Rocketpool ecosystem :
 
 **Pure-Speculation Non-Node-Operators (Pure-Specs)**: Folks who hold unstaked RPL purely for the purpose of speculation
 
-Of these groups, I believe No-Spec is the largest one by far and represents a massive untapped market for Rocketpool
+Of these groups, I believe No-Spec is the largest one by far and represents a big untapped market for Rocketpool
 
 While we may want to monetize No-Specs ASAP, its important to do so without unleashing unmanaged forces of supply and demand that would increase RPL market volatility. To manage these forces, let's first understand where they will come from: 
 
